@@ -30,8 +30,5 @@
     "url": "git+https://github.com/jacobdeleon12/Sceneit.git"
   },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/jacobdeleon12/Sceneit/issues"
-  },
-  "homepage": "https://sceneitapp.herokuapp.com/"
+  "homepage": "https://localhost3000/"
 }
