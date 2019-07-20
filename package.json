@@ -1,7 +1,7 @@
 {
   "name": "mern",
   "version": "1.0.0",
-  "description": "Proposal for Project #3\r (Blake Marter, Jacob Deleon, Kai Richardson, Kaleb Merriman)",
+  "description": "React assignment",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
